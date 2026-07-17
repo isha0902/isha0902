@@ -1,7 +1,9 @@
 ### Hi, I'm Isha 👋
 
 🎓 3rd-year CSE (Data Science) undergrad @ BMS College of Engineering, Bengaluru
+
 🌱 Currently building **EcoEats** — a full-stack food donation & waste reduction platform
+
 💻 Exploring full-stack development (MERN) alongside data science
 
 ---
